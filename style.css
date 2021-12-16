@@ -55,7 +55,7 @@ p {
   position: relative;
 }
 .parallax-saffron {
-  background-image: url("/images/1920px-orange-green.png");
+  background-image: url("./images/1920px-orange-green.png");
   min-height: 1920px;
   background-attachment: fixed;
   background-position: center;
@@ -64,7 +64,7 @@ p {
 }
 
 .parallax-green {
-  background-image: url("/images/1920-green-black-logo.png");
+  background-image: url("./images/1920-green-black-logo.png");
   min-height: 1920px;
   background-attachment: fixed;
   background-position: center;
@@ -73,7 +73,7 @@ p {
 }
 /* black background logos*/
 .parallax-black-white {
-  background-image: url("/images/1920-black-white-logo.png");
+  background-image: url("./images/1920-black-white-logo.png");
   min-height: 1920px;
   background-attachment: fixed;
   background-position: center;
@@ -83,7 +83,7 @@ p {
 /*hexagon print parallax*/
 
 .parallax-blue-hex {
-  background-image: url("/images/African-Print-hexagon-blue.png");
+  background-image: url("./images/African-Print-hexagon-blue.png");
   min-height: 1920px;
   background-attachment: fixed;
   background-position: center;
@@ -92,7 +92,7 @@ p {
 }
 
 .parallax-blue-white {
-  background-image: url("/images/1920-black-white-logo.png");
+  background-image: url("./images/1920-black-white-logo.png");
   min-height: 1920px;
   background-attachment: fixed;
   background-position: center;
@@ -199,7 +199,7 @@ p {
     position: relative;
   }
   .parallax-saffron {
-    background-image: url("/images/1920px-orange-green.png");
+    background-image: url("./images/1920px-orange-green.png");
     min-height: auto;
 
     background-attachment: fixed;
@@ -209,7 +209,7 @@ p {
   }
 
   .parallax-green {
-    background-image: url("/images/1920-green-black-logo.png");
+    background-image: url("./images/1920-green-black-logo.png");
     min-height: auto;
     background-attachment: fixed;
     background-position: center;
@@ -218,7 +218,7 @@ p {
   }
   /* black background logos*/
   .parallax-black-white {
-    background-image: url("/images/1920-black-white-logo.png");
+    background-image: url("./images/1920-black-white-logo.png");
     min-height: auto;
     background-attachment: fixed;
     background-position: center;
@@ -228,7 +228,7 @@ p {
   /*hexagon print parallax*/
 
   .parallax-blue-hex {
-    background-image: url("/images/African-Print-hexagon-blue.png");
+    background-image: url("./images/African-Print-hexagon-blue.png");
     min-height: auto;
     background-attachment: fixed;
     background-position: center;
@@ -237,7 +237,7 @@ p {
   }
 
   .parallax-blue-white {
-    background-image: url("/images/1920-black-white-logo.png");
+    background-image: url("./images/1920-black-white-logo.png");
     min-height: auto;
     background-attachment: fixed;
     background-position: center;
